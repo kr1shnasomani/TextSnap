@@ -4,7 +4,7 @@ The project extracts text from images using PyTesseract and EasyOCR. It enhances
 
 ## Execution Guide:
 
-1. Run the following command lines in the terminal:
+1. Run the following command line in the terminal:
    ```
    pip install opencv-python pytesseract easyocr matplotlib numpy
    ```
