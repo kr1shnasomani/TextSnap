@@ -17,7 +17,7 @@ The project extracts text from images using PyTesseract and EasyOCR. It enhances
 
 5. The code will convert the image to grayscale and extract the text from that. After this is done, the grayscale image and the text extracted will be shown in the output section.
 
-## Model prediction:
+## Model Prediction:
 
    ![image](https://github.com/user-attachments/assets/1bc2e0c5-2cac-43df-b33c-6db613cd64b8)]
    
