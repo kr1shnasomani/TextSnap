@@ -1,9 +1,7 @@
 # Text Extractor from Image
-
 The project extracts text from images using PyTesseract and EasyOCR. It enhances images through grayscale conversion, denoising, thresholding and morphological operations. The extracted text is then displayed from the processed image for improved accuracy and clarity.
 
 ## Execution Guide:
-
 1. Run the following command line in the terminal:
    ```
    pip install opencv-python pytesseract easyocr matplotlib numpy
@@ -19,12 +17,11 @@ The project extracts text from images using PyTesseract and EasyOCR. It enhances
 
 5. The code will convert the image to grayscale and extract the text from that. After this is done, the grayscale image and the text extracted will be shown in the output section.
 
-6. Here is how the output will look like:
+## Model prediction:
 
    ![image](https://github.com/user-attachments/assets/1bc2e0c5-2cac-43df-b33c-6db613cd64b8)]
    
 ## Overview:
-
 This project focuses on **text extraction from images** using Optical Character Recognition (OCR) techniques. It leverages two OCR libraries, **Tesseract** and **EasyOCR**, for extracting text from images, while also applying image enhancement techniques to improve the accuracy of text recognition.
 
 1. **Libraries Used**:
