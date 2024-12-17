@@ -1,4 +1,4 @@
-# Text Extractor from Image
+# Text Extractor
 The project extracts text from images using PyTesseract and EasyOCR. It enhances images through grayscale conversion, denoising, thresholding and morphological operations. The extracted text is then displayed from the processed image for improved accuracy and clarity.
 
 ## Execution Guide:
