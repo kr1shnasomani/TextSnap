@@ -19,6 +19,10 @@ The project extracts text from images using PyTesseract and EasyOCR. It enhances
 
 ## Model Prediction:
 
+   Image:
+   ![image](https://github.com/user-attachments/assets/f5dea247-5914-4eb7-98df-70c1a54fd5b5)
+
+   Output:
    ![image](https://github.com/user-attachments/assets/394e0419-0234-4969-83b4-0f3710f03335)
 
 ## Overview:
