@@ -19,8 +19,8 @@ The project extracts text from images using PyTesseract and EasyOCR. It enhances
 
 ## Model Prediction:
 
-   ![image](https://github.com/user-attachments/assets/1bc2e0c5-2cac-43df-b33c-6db613cd64b8)]
-   
+   ![image](https://github.com/user-attachments/assets/394e0419-0234-4969-83b4-0f3710f03335)
+
 ## Overview:
 This project focuses on **text extraction from images** using Optical Character Recognition (OCR) techniques. It leverages two OCR libraries, **Tesseract** and **EasyOCR**, for extracting text from images, while also applying image enhancement techniques to improve the accuracy of text recognition.
 
